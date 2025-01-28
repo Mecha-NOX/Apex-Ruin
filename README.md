@@ -50,9 +50,9 @@
 
 ## **Screenshots / GIFs**
 
-![ApexRuin1](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
-![ApexRuin2](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
-![ApexRuin3](https://github.com/Mecha-NOX/Countdown-Carnage/blob/b78451a59a67d9caf7e22beff407e0be5d344b78/GIFs/Countdown-Carnage_First.gif)
+![ApexRuin1](https://github.com/Mecha-NOX/Apex-Ruin/blob/678e3e57a295c0f25bdc3899752658686842ed8b/GIFs/Apex-Ruin_First.gif)
+![ApexRuin2](https://github.com/Mecha-NOX/Apex-Ruin/blob/678e3e57a295c0f25bdc3899752658686842ed8b/GIFs/Apex-Ruin_Second.gif)
+![ApexRuin3](https://github.com/Mecha-NOX/Apex-Ruin/blob/678e3e57a295c0f25bdc3899752658686842ed8b/GIFs/Apex-Ruin_Third.gif)
 
 ---
 
